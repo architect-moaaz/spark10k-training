@@ -1,0 +1,4 @@
+pygraphviz
+langchain
+langgraph
+openai
