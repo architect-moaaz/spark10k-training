@@ -8,7 +8,6 @@ anyio
 appnope
 asttokens
 attrs
-audioop-lts
 beautifulsoup4
 bs4
 certifi
